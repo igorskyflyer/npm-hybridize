@@ -1,1 +1,1 @@
-# 🧬 Hybridize(👽) ⚡
+# 🧬 Hybridize ⚡
