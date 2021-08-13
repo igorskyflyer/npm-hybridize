@@ -1,0 +1,48 @@
+{
+	"name": "@igor.dvlpr/hybridize",
+	"version": "1.0.0",
+	"description": "🧬 Hybridize is a simple CLI that I use internally as a part of my Modern Module repository and Robby - another CLI tool. ⚡",
+	"engines": {
+		"node": ">=12.17"
+	},
+	"main": "./bin/hybridize.js",
+	"bin": {
+		"hybridize": "./bin/hybridize.js"
+	},
+	"files": [
+		"bin",
+		"src"
+	],
+	"scripts": {
+		"pub": "npm publish --access public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/igorskyflyer/npm-hybridize.git"
+	},
+	"keywords": [
+		"hybridize",
+		"hybrid",
+		"module",
+		"compatibility",
+		"modern",
+		"robby",
+		"commonjs",
+		"es6",
+		"esm",
+		"igor.dvlpr"
+	],
+	"author": "Igor Dimitrijević <igor.dvlpr@gmail.com> (https://github.com/igorskyflyer)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/igorskyflyer/npm-hybridize/issues"
+	},
+	"homepage": "https://github.com/igorskyflyer/npm-hybridize#readme",
+	"devDependencies": {
+		"@types/node": "^12.20.19",
+		"@types/yargs": "^17.0.2"
+	},
+	"dependencies": {
+		"yargs": "^17.1.0"
+	}
+}
