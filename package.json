@@ -32,7 +32,8 @@
 		"esm",
 		"igor.dvlpr"
 	],
-	"author": "Igor Dimitrijević <igor.dvlpr@gmail.com> (https://github.com/igorskyflyer)",
+	"author": "Igor Dimitrijević <admin@igorskyflyer.me> (https://github.com/igorskyflyer)",
+	"funding": "https://ko-fi.com/igorskyflyer",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/igorskyflyer/npm-hybridize/issues"
