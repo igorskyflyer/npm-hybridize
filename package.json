@@ -40,9 +40,9 @@
 	"homepage": "https://github.com/igorskyflyer/npm-hybridize#readme",
 	"devDependencies": {
 		"@types/node": "^12.20.19",
-		"@types/yargs": "^17.0.2"
+		"@types/yargs": "^17.0.17"
 	},
 	"dependencies": {
-		"yargs": "^17.1.0"
+		"yargs": "^17.6.2"
 	}
 }
