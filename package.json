@@ -1,6 +1,6 @@
 {
 	"name": "@igor.dvlpr/hybridize",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "🧬 Hybridize is a simple CLI that I use internally as a part of my Modern Module repository and Robby - another CLI tool. ⚡",
 	"engines": {
 		"node": ">=12.17"
