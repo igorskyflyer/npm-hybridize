@@ -4,6 +4,14 @@
 
 <br>
 
+<div align="center">
+<h3>💖 Support further development</h3>
+<a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="164"></a>
+</div>
+
+<br>
+<br>
+
 If you find any use for it as a standalone module, feel free to use it. 😄☝
 
 <br>
